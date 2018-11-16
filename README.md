@@ -11,7 +11,7 @@ However, I'd suggest trying it out in your command line first. All output to the
 
 ## This program requires the following installs:
   - python 2.7 (prob already have this)
-  - geckodriver: https://www.npmjs.com/package/geckodriver
+  - chromedriver: https://www.npmjs.com/package/chromedriver
   - selenium: "pip install selenium" (if you don't have pip, get pip)
   
 ## Account safety:
